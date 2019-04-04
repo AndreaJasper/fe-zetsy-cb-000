@@ -29,6 +29,10 @@ img {
 	border: 3px solid #9DAAA5;
 }
 
+.banner {
+	width: 100%;
+}
+
 footer {
 	float: right;
 }
