@@ -25,6 +25,12 @@ h1 {
 	color: #9DAAA5;
 }
 
+img {
+	border: 3px solid #9DAAA5;
+}
+
 footer {
 	float: right;
 }
+
+
