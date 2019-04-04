@@ -48,7 +48,7 @@ img {
 	border: 3px solid #CBCBCB;
 }
 
-#cta img a:hover {
+#cta img:hover {
 	border: 3px solid #727F7A;
 }
 
