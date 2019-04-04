@@ -18,3 +18,10 @@ body {
 }
 
 /* Write all remaining styles here */
+h1 {
+	border-bottom: 1px solid
+}
+
+footer {
+	float: right;
+}
